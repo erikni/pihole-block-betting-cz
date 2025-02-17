@@ -27,6 +27,7 @@
 0.0.0.0 grandcasinoas.eu
 0.0.0.0 herna.gapagroup.cz
 0.0.0.0 hrajmezodpovedne.cz
+0.0.0.0 hrajsrozumem.sazka.cz
 0.0.0.0 ifortuna.cz
 0.0.0.0 ingo-casino.com
 0.0.0.0 jobs.tipsport.cz
@@ -48,6 +49,7 @@
 0.0.0.0 profi-grup.cz
 0.0.0.0 provozovny.synottip.cz
 0.0.0.0 rebuystars.cz
+0.0.0.0 sazka.cz
 0.0.0.0 skokypraha.cz
 0.0.0.0 sport.synottip.cz
 0.0.0.0 sportgames.cz
@@ -95,6 +97,7 @@
 0.0.0.0 www.play-games.cz
 0.0.0.0 www.profi-grup.cz
 0.0.0.0 www.rebuystars.cz
+0.0.0.0 www.sazka.cz
 0.0.0.0 www.skokypraha.cz
 0.0.0.0 www.sportgames.cz
 0.0.0.0 www.star-casino.cz
