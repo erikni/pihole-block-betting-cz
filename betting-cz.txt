@@ -1,6 +1,7 @@
 0.0.0.0 24casino.cz
 0.0.0.0 4ms.cz
 0.0.0.0 500freeslots.com
+0.0.0.0 69games.cz
 0.0.0.0 account.ifortuna.cz
 0.0.0.0 agbas.cz
 0.0.0.0 akce.tipsport.cz
@@ -24,9 +25,11 @@
 0.0.0.0 betor.cz
 0.0.0.0 bonus.ifortuna.cz
 0.0.0.0 bonver.cz
+0.0.0.0 bonvercasino.cz
 0.0.0.0 casino-automaty-zdarma.info
 0.0.0.0 casino-kartac.cz
 0.0.0.0 casino-mariner.cz
+0.0.0.0 casino.doublestar.sk
 0.0.0.0 casino.ifortuna.cz
 0.0.0.0 casino.leit.cz
 0.0.0.0 casino.synottip.cz
@@ -34,6 +37,7 @@
 0.0.0.0 casinoadmiral.cz
 0.0.0.0 casinoaleks.cz
 0.0.0.0 casinoambassador.cz
+0.0.0.0 casinoarena.cz
 0.0.0.0 casinoeuro.cz
 0.0.0.0 casinohry.cz
 0.0.0.0 casinorecenze.cz
@@ -46,6 +50,8 @@
 0.0.0.0 cislasportky.cz
 0.0.0.0 cz-casino.cz
 0.0.0.0 cz.500freeslots.com
+0.0.0.0 doublestar.sk
+0.0.0.0 ecasino.cz
 0.0.0.0 edpsro.cz
 0.0.0.0 encyklopediehazardu.cz
 0.0.0.0 estranky.cz
@@ -78,6 +84,7 @@
 0.0.0.0 loterie-tikety.cz
 0.0.0.0 luckybet.cz
 0.0.0.0 luckymoney.cz
+0.0.0.0 magicplanet.cz
 0.0.0.0 maxa.cz
 0.0.0.0 maxitip.cz
 0.0.0.0 merkur-casino.cz
@@ -87,6 +94,7 @@
 0.0.0.0 multigate.cz
 0.0.0.0 net-and-games.cz
 0.0.0.0 online-sazeni.com
+0.0.0.0 online.casinoadmiral.cz
 0.0.0.0 onlinecasino.cz
 0.0.0.0 palasinogroup.eu
 0.0.0.0 play-games.cz
@@ -124,6 +132,7 @@
 0.0.0.0 vyhraj.cz
 0.0.0.0 wekosa.cz
 0.0.0.0 www.24casino.cz
+0.0.0.0 www.69games.cz
 0.0.0.0 www.agbas.cz
 0.0.0.0 www.apex-gaming.com
 0.0.0.0 www.apollogames.cz
@@ -137,6 +146,7 @@
 0.0.0.0 www.betarena.cz
 0.0.0.0 www.betor.cz
 0.0.0.0 www.bonver.cz
+0.0.0.0 www.bonvercasino.cz
 0.0.0.0 www.casino-automaty-zdarma.info
 0.0.0.0 www.casino-kartac.cz
 0.0.0.0 www.casino-mariner.cz
@@ -145,6 +155,7 @@
 0.0.0.0 www.casinoadmiral.cz
 0.0.0.0 www.casinoaleks.cz
 0.0.0.0 www.casinoambassador.cz
+0.0.0.0 www.casinoarena.cz
 0.0.0.0 www.casinoeuro.cz
 0.0.0.0 www.casinohry.cz
 0.0.0.0 www.casinorecenze.cz
@@ -156,6 +167,8 @@
 0.0.0.0 www.chance.cz
 0.0.0.0 www.cislasportky.cz
 0.0.0.0 www.cz-casino.cz
+0.0.0.0 www.doublestar.sk
+0.0.0.0 www.ecasino.cz
 0.0.0.0 www.edpsro.cz
 0.0.0.0 www.encyklopediehazardu.cz
 0.0.0.0 www.euroqueen.cz
@@ -177,6 +190,7 @@
 0.0.0.0 www.loterie-tikety.cz
 0.0.0.0 www.luckybet.cz
 0.0.0.0 www.luckymoney.cz
+0.0.0.0 www.magicplanet.cz
 0.0.0.0 www.maxa.cz
 0.0.0.0 www.maxitip.cz
 0.0.0.0 www.merkur-casino.cz
